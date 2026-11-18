@@ -1,4 +1,4 @@
-![Agnieszka Galicka — AI Transformation, Product Operations and Responsible AI](assets/aga-github-banner.png)
+![Agnieszka Galicka-Mlynarczyk — AI Transformation, Product Operations and Responsible AI](assets/aga-github-banner.png)
 
 ### Senior operations leadership meets practical AI implementation.
 
